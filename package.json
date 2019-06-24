@@ -1,0 +1,15 @@
+{
+  "name": "skblockchain",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "John Kozan <john@kozan.sk.ca>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "big.js": "^5.2.2",
+    "coinmarketcap-api": "^3.0.1",
+    "dotenv": "^8.0.0",
+    "node-emoji": "^1.10.0",
+    "toformat": "^2.0.0"
+  }
+}
